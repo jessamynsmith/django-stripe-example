@@ -1,0 +1,15 @@
+certifi==2018.11.29
+chardet==3.0.4
+Django==1.11.17
+django-appconf==1.0.2
+django-bootstrap-form==3.4
+django-ipware==2.1.0
+idna==2.8
+jsonfield==1.0.3
+pinax-stripe==4.4.0
+pinax-templates==2.0.2
+pytz==2018.7
+requests==2.21.0
+six==1.12.0
+stripe==2.17.0
+urllib3==1.24.1
